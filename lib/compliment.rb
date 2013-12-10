@@ -1,5 +1,3 @@
-require 'ap'
-
 class Compliment
 
 	attr_reader :message, :image, :color
